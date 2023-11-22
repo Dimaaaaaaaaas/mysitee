@@ -24,7 +24,7 @@ body {
 }
 
 .menu-item a {
-
+    text-decoration: none;
     color: white;
 }
 
@@ -65,8 +65,4 @@ body {
     background: red;
     color: white;
 
-}
-
-.menu-list ul li a:hover {
-    color: greenyellow;
 }
