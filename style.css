@@ -60,3 +60,8 @@ body {
 .main {
     max-width: 500px;
 }
+
+.button-order:hover {
+    background: red;
+    color: white;
+}
