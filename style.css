@@ -66,3 +66,7 @@ body {
     color: white;
 
 }
+
+.menu-list:hover {
+    color: greenyellow;
+}
