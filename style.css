@@ -67,6 +67,6 @@ body {
 
 }
 
-a:hover {
+.menu-list ul li a:hover {
     color: greenyellow;
 }
